@@ -58,7 +58,7 @@ project1_books_scraper/
 - Easily extendable to scrape individual book detail pages
 
 ## 👤 Author
-**Your Name** — Python & AI Developer
-- GitHub: github.com/yourname
-- LinkedIn: linkedin.com/in/yourname
-- Upwork: upwork.com/yourprofile
+**Kamal Hasan** — Python & AI Developer
+- GitHub: github.com/kmlhsn
+- LinkedIn: linkedin.com/in/kmlhsn
+- Upwork: upwork.com/kmlhsn
